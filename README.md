@@ -9,7 +9,9 @@ To use this project, you can follow these steps:
 
 2. Open the project in your preferred PHP development environment (IDE).
 
-3. Run each PHP Test file to test and check the outputs.
+3. Run your preferred back-end server (i.e Apache)
+
+5. Run each PHP Test file to test and check the outputs.
 
 ## Contributing
 This project is for educational purposes and demonstration. Contributions are welcome if you have suggestions or improvements. Feel free to fork the repository, make your changes, and create a pull request.
